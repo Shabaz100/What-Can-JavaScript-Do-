@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #fcfeff;
+}
+
+
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: yellow;
+    background-color: black;
+    border-color: none;
+}
+h2{
+    font-family: sans-serif;
+    font-size: 50px;
+    background-color: #3c3c3c;
+    color: yellow;
+}
+p{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 20px;
+ background-color:#3c3c3c;
+ color: yellow;
+}
